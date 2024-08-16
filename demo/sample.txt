@@ -1,1 +1,1 @@
-test data for translation
+sample data for translation
