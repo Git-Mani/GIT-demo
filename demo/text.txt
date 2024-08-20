@@ -1,1 +1,1 @@
-sample file test data for translation.
+sample file test demo data for translation.
