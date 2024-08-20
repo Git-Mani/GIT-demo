@@ -1,1 +1,1 @@
-text content for translation.
+text data for translation.
