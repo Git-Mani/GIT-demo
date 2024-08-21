@@ -1,1 +1,1 @@
-hi, this is demo text.
+hi, this is sample text.
